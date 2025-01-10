@@ -1,0 +1,18 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  overflow: hidden;
+  background: linear-gradient(45deg, #000514, #001a33);
+}
+
+canvas {
+  width: 100vw;
+  height: 100vh;
+  display: block;
+}
+
+
